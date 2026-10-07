@@ -1,31 +1,27 @@
-# Welcome to CodingNC 👋
+# 👋 Welcome to CodingNC
 
-### You don't have to learn to code alone.
+**You don't have to learn to code alone.**
 
-Whether you're in a **coding bootcamp, taking a college course, or learning on your own**, CodingNC is here to help you move forward.
+CodingNC helps aspiring developers build their skills with practical projects, guidance, and **one-on-one coding support**.
 
-Build real projects, work through assignments, strengthen your skills, and get **one-on-one guidance** whenever you need it.
+Whether you're in a **coding bootcamp, college course, or learning on your own**, we're here to help you keep moving when you get stuck.
 
-## 🚀 Get Started
+### How CodingNC helps
 
-Create your CodingNC account to begin:
+💻 Work through real coding projects  
+🧭 Get guidance when you don't know what to do next  
+🆘 Get one-on-one help when you're stuck  
+🤖 Learn how to use AI effectively as a developer  
+🚀 Build skills you can actually use
 
-### 👉 [Register on CodingNC](https://www.codingnic.com/login)
+### Try CodingNC
 
-With CodingNC, you can:
+Want to see what it's like to get personalized coding help?
 
-* 💻 Practice through real projects and assignments
-* 🧭 Get guidance when you're not sure what to do next
-* 🆘 Get one-on-one help when you're stuck
-* 🤖 Learn how to use AI effectively as a developer
-* 📚 Strengthen the skills you're learning in your course or on your own
-* 🚀 Build confidence as you progress
+**🎓 [Book a Free 30-Minute one-on-one Lesson](https://codingnic.com/book)**
 
-**Wherever you're learning, we're here to help you keep moving.**
+No commitment. Bring a coding problem, project, or question you're working on, and we'll work through it together.
 
-### Ready to get started?
+**Learn. Build. Get stuck. Get help. Keep going.**
 
-**[Create your CodingNC account →](https://www.codingnic.com/login)**
-
-**Let's build. 🚀**
 ---
